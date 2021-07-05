@@ -24,3 +24,4 @@ jobs:
         with:
           publish_dir: ./dist
           cname: dark.gabe.io
+          keep_files: true
